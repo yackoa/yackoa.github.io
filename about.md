@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am software engineer currently working in the UK, skilled at Python, pandas, Java & Spark. I like creating flask rest APIs if the helps me do less work, since I am lazy and like automating things
 
-### More Information
+### While you are here, check out some of my work 
+- [loginless quora](https://github.com/yackoa/loginless-quora)
 
-A place to include any other types of information that you'd like to include about yourself.
+### Reach out to me on
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[message me linkedin](https://www.linkedin.com/in/yacko-abrams/)
